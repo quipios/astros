@@ -1,6 +1,6 @@
 ---
 title: Simplifying Front-End Interactivity with Alpine.js
-draft: false
+draft: true
 author: Jon Doe
 tags:
   - alpinejs

@@ -1,9 +1,9 @@
 {
 	"hero": {
-		"title": "Supercharged web development!",
-		"subtitle": "Unleashing the Power of the Web: Combines Astro, Tailwind CSS and Alpine.js to Streamline Your Web Development Process.",
-		"globe_title": "Craft Stunning, High-Performance Websites with Ease and Speed",
-		"main_button_text": "Download on github",
+		"title": "Unlocking Insights on the Blockchain with Onchain Data!",
+		"subtitle": "OnAnalytics helps you understand and get meaningful insights using historical and real time data.",
+		"globe_title": "Unlocking Insights on the Blockchain with Onchain Data!",
+		"main_button_text": "Github",
 		"secondary_button_text": "Go to animated version"
 	},
 	"hero_animated": {
@@ -19,15 +19,15 @@
 	},
 	"features": {
 		"learn_more": "Learn more",
-		"title": "Features",
-		"subtitle": "All the tools you need",
-		"description": "Astro is a high-performance static site builder that seamlessly integrates with Tailwind CSS and Alpine.js. It allows you to build websites with ease and speed, without sacrificing on performance.",
-		"astro": "Astro is the all-in-one web framework designed for speed. Pull your content from anywhere and deploy everywhere, all powered by your favorite UI components and libraries.",
-		"alpine": "Alpine is a rugged, minimal tool for composing behavior directly in your markup. Think of it like jQuery for the modern web. Plop in a script tag and get going.",
-		"tailwind": "A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.",
-		"localization": "An astro integration of i18next + some utility components to help you translate your astro websites!",
-		"light_dark_mode": "Light/Dark mode based on tailwind classes",
-		"giscus": "A comments system powered by GitHub Discussions. Let visitors leave comments and reactions on your website via GitHub!",
+		"title": "Services",
+		"subtitle": "On-Chain data experts",
+		"description": "Focus on analyzing and interpreting on-chain data",
+		"advisory": "Sometimes you don't know where to begin; we can work with you to help you get started.",
+		"analysis": "On-chain data analysis of blockchain, smart contracts & projects",
+		"visual": "Custom Dashboards and visualization to monitor and meassure what matters",
+		"education": "Educational resources to get better understanding and utilize on-chain data analytics.",
+		"otro": "XX",
+		"consultation": "XX ",
 		"decapcms": "Open source content management for your Git workflow",
 		"rss": "RSS feed generato da @astrojs/rss",
 		"articlegenerator": "Use AI to generate your articles posts"

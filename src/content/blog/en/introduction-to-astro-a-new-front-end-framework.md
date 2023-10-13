@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Astro: A New Front-End Framework"
-draft: false
+draft: true
 author: Jon Doe
 tags:
   - astro

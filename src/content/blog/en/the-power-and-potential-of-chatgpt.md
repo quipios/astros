@@ -1,6 +1,6 @@
 ---
 title: The Power and Potential of ChatGPT
-draft: false
+draft: true
 author: Jon Doe
 tags:
   - ai
