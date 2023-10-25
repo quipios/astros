@@ -6,6 +6,7 @@ author: Oscar Quiroga
 tags:
   - onchain
   - data
+  - blockchain
 image:
   src: /images/decapcms.png
   alt: On-Chain Data
